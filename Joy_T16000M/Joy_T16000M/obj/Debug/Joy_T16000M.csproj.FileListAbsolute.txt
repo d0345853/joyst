@@ -1,0 +1,128 @@
+c:\users\user\documents\visual studio 2013\Projects\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe.config
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe.config
+D:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe.config
+D:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe
+D:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.pdb
+D:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.dll
+D:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.dll
+D:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.xml
+D:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.xml
+D:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csprojResolveAssemblyReference.cache
+D:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Properties.Resources.resources
+D:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.GenerateResource.Cache
+D:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.exe
+D:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.pdb
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.exe
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.pdb
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Form1.resources
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Properties.Resources.resources
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.pdb
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.dll
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.xml
+C:\Users\user\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe.config
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.exe
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.pdb
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.pdb
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.dll
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.xml
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csprojResolveAssemblyReference.cache
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Form1.resources
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Properties.Resources.resources
+C:\Users\MRL\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.GenerateResource.Cache
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe.config
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.exe
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.pdb
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.pdb
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.dll
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.dll
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.xml
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.xml
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csprojResolveAssemblyReference.cache
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Form1.resources
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Properties.Resources.resources
+E:\實驗室\Vs2013\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe.config
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.exe
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.pdb
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.pdb
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.dll
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.xml
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Form1.resources
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Properties.Resources.resources
+C:\Users\User\Desktop\robot_arm\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.GenerateResource.Cache
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe.config
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.pdb
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.dll
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.dll
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.xml
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.xml
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csprojAssemblyReference.cache
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Form1.resources
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Properties.Resources.resources
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.GenerateResource.cache
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.CoreCompileInputs.cache
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.CopyComplete
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.exe
+D:\MASTER\cooperation case\柏林科技\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.pdb
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe.config
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.pdb
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.dll
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.dll
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.xml
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.xml
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csprojAssemblyReference.cache
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Form1.resources
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Properties.Resources.resources
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.GenerateResource.cache
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.CoreCompileInputs.cache
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.CopyComplete
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.exe
+D:\MASTER\cooperation case\tech\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.pdb
+C:\Users\yuching\Desktop\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe.config
+C:\Users\yuching\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.exe
+C:\Users\yuching\Desktop\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.pdb
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe.config
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.pdb
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.dll
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.xml
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csprojAssemblyReference.cache
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Form1.resources
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Properties.Resources.resources
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.GenerateResource.cache
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.CopyComplete
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.exe
+C:\Users\user\Desktop\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.pdb
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe.config
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.exe
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\bin\Debug\Joy_T16000M.pdb
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.dll
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.dll
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.xml
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\bin\Debug\SharpDX.DirectInput.xml
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csprojAssemblyReference.cache
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Form1.resources
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.Properties.Resources.resources
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.GenerateResource.cache
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.CoreCompileInputs.cache
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.csproj.CopyComplete
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.exe
+D:\課程資料\BIKE\control\Joy_T16000M\Joy_T16000M\obj\Debug\Joy_T16000M.pdb
